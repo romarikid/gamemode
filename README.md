@@ -1,3 +1,3 @@
 # gamemode
-# all rights reserved
-# website for the customer - spring
+ all rights reserved
+ website for the customer - spring
